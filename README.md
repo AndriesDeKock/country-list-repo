@@ -1,2 +1,2 @@
 # country-list-repo
-Retrieve list of world countries
+Retrieve a list of all world countries using System.Globalization.CultureInfo
